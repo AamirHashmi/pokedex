@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AamirPokedex</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+    <string name="pokedexEntry">Pokedex Entry</string>
+    <string name="evolution">Evolution</string>
+    <string name="levelUpMoves">Level-Up Moves</string>
+    <string name="bulbasaurName">#001 Bulbasaur</string>
+    <string name="bulbasaurGen1DexEntry">A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.</string>
+    <string name="bulbasaurGen2DexEntry">The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.</string>
+    <string name="bulbasaurGen3DexEntry">Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun\'s rays, the seed grows progressively larger.</string>
+    <string name="level16">Level 16</string>
+    <string name="level32">Level 32</string>
+    <string name="bulbasaurLevelUpMoves">
+        LEVEL    MOVE\n
+        1	Tackle\n
+	3	Growl\n
+	7	Leech Seed\n
+	9	Vine Whip\n
+	13	Poison Powder\n
+	13	Sleep Powder\n
+	15	Take Down\n
+	19	Razor Leaf\n
+	21	Sweet Scent\n
+	25	Growth\n
+	27	Double-Edge\n
+	31	Worry Seed\n
+	33	Synthesis\n
+	37	Seed Bomb\n
+	N/A	Vine Whip\n
+</string>
+
+    <string name="ivysaurName">#002 Ivysaur</string>
+    <string name="ivysaurGen1DexEntry">When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.</string>
+    <string name="ivysaurGen2DexEntry">Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.</string>
+    <string name="ivysaurGen3DexEntry">There is a bud on this Pokémon\'s back. To support its weight, Ivysaur\'s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it\'s a sign that the bud will bloom into a large flower soon.</string>
+    <string name="title_activity_venusaur_page">venusaurPage</string>
+
+
+    <string name="venusaurName">#003 Venusaur</string>
+    <string name="venusaurGen1DexEntry">The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.</string>
+    <string name="venusaurGen2DexEntry">By spreading the broad petals of its flower and catching the sun\'s rays, it fills its body with power.</string>
+    <string name="venusaurGen3DexEntry">There is a large flower on Venusaur\'s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower\'s aroma soothes the emotions of people.</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
+
